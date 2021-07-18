@@ -2,8 +2,7 @@
 
 ## Overview
 
-This website demonstrates my skill of html, css, and Bootstrap.
-
+This is the first website for me to build with html, css, and bootstrap. 
 
 ## Help
 
